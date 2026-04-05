@@ -150,17 +150,6 @@ Edit `REQUEST_TIMEOUT_MS` in `lib/health.ts` (default: 5000ms)
 
 This project is open source and available under the MIT License.
 
-**Made with ❤️ for API monitoring**
-3. Add new pages in `app/`
-4. Add new backend endpoints in `app/api/`
-
-Examples:
-
-- `components/service-chart.tsx`
-- `lib/formatters.ts`
-- `app/reports/page.tsx`
-- `app/api/reports/route.ts`
-
 ## Notes
 
 - On the first load, the app seeds the assignment's sample public APIs and checks them.
