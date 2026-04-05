@@ -1,0 +1,47 @@
+[
+  {
+    "id": "svc_oj1l0q7q",
+    "name": "GitHub Public API",
+    "url": "https://api.github.com/repos/vercel/next.js",
+    "status": "UP",
+    "latencyMs": 456,
+    "lastCheckedAt": "2026-04-03T12:18:30.358Z",
+    "healthScore": 82
+  },
+  {
+    "id": "svc_ksna81pu",
+    "name": "Hacker News Search API",
+    "url": "https://hn.algolia.com/api/v1/search?query=ai",
+    "status": "SLOW",
+    "latencyMs": 637,
+    "lastCheckedAt": "2026-04-03T12:08:19.822Z",
+    "healthScore": 63
+  },
+  {
+    "id": "svc_oe95q512",
+    "name": "Mani's Shit",
+    "url": "https://api.maninder.net/lookup/?ip=1.1.1.1",
+    "status": "UP",
+    "latencyMs": 84,
+    "lastCheckedAt": "2026-04-04T05:15:24.662Z",
+    "healthScore": 97
+  },
+  {
+    "id": "svc_0awdnt80",
+    "name": "Open-Meteo Weather API",
+    "url": "https://api.open-meteo.com/v1/forecast?latitude=1.29&longitude=103.85&current_weather=true",
+    "status": "SLOW",
+    "latencyMs": 685,
+    "lastCheckedAt": "2026-04-03T12:08:19.872Z",
+    "healthScore": 62
+  },
+  {
+    "id": "svc_lkg8svro",
+    "name": "Public Countries API",
+    "url": "https://restcountries.com/v3.1/name/singapore",
+    "status": "SLOW",
+    "latencyMs": 791,
+    "lastCheckedAt": "2026-04-03T12:08:19.981Z",
+    "healthScore": 61
+  }
+]
