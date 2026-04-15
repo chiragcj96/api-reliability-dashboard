@@ -153,4 +153,4 @@ This project is open source and available under the MIT License.
 ## Notes
 
 - On the first load, the app seeds the assignment's sample public APIs and checks them.
-- Services are persisted locally, so added services remain after restarting the app.
+- Services are persisted locally, so added services remain after restarting the application.
